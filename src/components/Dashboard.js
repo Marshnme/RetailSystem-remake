@@ -109,40 +109,43 @@ const Dashboard = () => {
                 </div>
             </section>
             <hr/>
-            <section>
+            <section className="POS-systems">
                 <div className="section-banner">
                     <h1>POINT OF SALE SYSTEMS</h1>
                 </div>
-                <div>
-                    <p>IMG</p>
+                <div className="pair">
+                    <div>
+                        <p>IMG</p>
+                    </div>
+                    <div>
+                        <h2>POS Specialists</h2>
+                        <p>Our team of specialists will help you get the perfect system for your businesses needs.</p>
+                    </div>
                 </div>
-                <div>
-                    <h2>POS Specialists</h2>
-                    <p>Our team of specialists will help you get the perfect system for your businesses needs.</p>
-                </div>
+                
             </section>
-            <section>
-                <div>
+            <section className="pre-footer">
+                <div className="pre-footer-section">
                     <p>IMG</p>
                     <a href="#">Schedule A Demo</a>
                 </div>
-                <div>
+                <div className="pre-footer-section">
                     <p>IMG</p>
                     <a href="#">Free POS Analysis</a>
                 </div>
-                <div>
+                <div className="pre-footer-section">
                     <p>IMG</p>
                     <a href="#">Grocery POS</a>
                 </div>
-                <div>
+                <div className="pre-footer-section">
                     <p>IMG</p>   
                     <a href="#">Hospitality POS</a>
                 </div>
-                <div>
+                <div className="pre-footer-section">
                     <p>IMG</p>   
                     <a href="#">RSI Security Systems</a>
                 </div>
-                <div>
+                <div className="pre-footer-section">
                     <p>IMG</p> 
                     <a href="#">Contact Us</a>
                 </div>

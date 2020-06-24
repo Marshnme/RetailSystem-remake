@@ -31,6 +31,16 @@ header{
     flex-flow:row wrap;
 }
 
+.rsi-support{
+    display:flex;
+    flex-flow: row wrap;
+}
+
+.POS-systems{
+    width:100%;
+    display:flex;
+    flex-flow: row wrap;
+}
 .section-banner {
     width:100%;
     display:flex;
@@ -43,8 +53,18 @@ header{
     justify-content: space-evenly;
 }
 
-
-.rsi-support{
+.pre-footer{
+    width:100%;
     display:flex;
     flex-flow: row wrap;
+    justify-content: space-evenly;
 }
+
+.pre-footer-section{
+    width:40%;
+}
+
+footer{
+    width:100%;
+}
+
