@@ -5,10 +5,10 @@ const Dashboard = () => {
     return(
         <div className="parent">
             <nav>
-                <div>
-                    <p>IMG</p>
+                <div className="nav-img" >
+                    <h1>IMG</h1>
                 </div>
-                <div>
+                <div className="links">
                     <ul>
                         <li>Home</li>
                         <li>Services</li>
@@ -16,19 +16,20 @@ const Dashboard = () => {
                         <li>POS Systems</li>
                         <li>Security Systems</li>
                         <li>Customer Support</li>
+                        <li>CONNECT TO RSI RESCUE</li>
                     </ul>
                 </div>
-                <div>
+                {/* <div className="rescue">
                     <a href='#'>CONNECT TO RSI RESCUE</a>
-                </div>
+                </div> */}
             </nav>
             <header>
                 <div>
-                    <p>IMG</p>
+                    <h1>Professional Point Of Sale Services.</h1>
                 </div>
             </header>
             <section className="rsi-service">
-                <div className="section-banner">
+                <div className="section-banner-RSI">
                     <h1>RSI SERVICES</h1>
                 </div>
             </section>
