@@ -129,27 +129,27 @@ const Dashboard = () => {
                 <div className="pre-footer-width">
                     <div className="pre-footer-section">
                         <p>IMG</p>
-                        <a href="#">Schedule A Demo</a>
+                        <a href="www.google.com">Schedule A Demo</a>
                     </div>
                     <div className="pre-footer-section">
                         <p>IMG</p>
-                        <a href="#">Free POS Analysis</a>
+                        <a href="www.google.com">Free POS Analysis</a>
                     </div>
                     <div className="pre-footer-section">
                         <p>IMG</p>
-                        <a href="#">Grocery POS</a>
+                        <a href="www.google.com">Grocery POS</a>
                     </div>
                     <div className="pre-footer-section">
                         <p>IMG</p>   
-                        <a href="#">Hospitality POS</a>
+                        <a href="www.google.com">Hospitality POS</a>
                     </div>
                     <div className="pre-footer-section">
                         <p>IMG</p>   
-                        <a href="#">RSI Security Systems</a>
+                        <a href="www.google.com">RSI Security Systems</a>
                     </div>
                     <div className="pre-footer-section">
                         <p>IMG</p> 
-                        <a href="#">Contact Us</a>
+                        <a href="www.google.com">Contact Us</a>
                     </div>
                 </div>
             </section>
