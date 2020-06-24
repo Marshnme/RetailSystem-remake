@@ -1,3 +1,50 @@
 *{
-    color:blue;
+    border:red 1px solid;
+}
+
+.parent{
+    display:flex;
+    flex-flow: row wrap;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width:100%;
+}
+
+header{
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+
+.rsi-service{
+    width:100%;
+    display:flex;
+    justify-content: center;
+}
+
+.net-service{
+    display:flex;
+    flex-flow:row wrap;
+}
+
+.section-banner {
+    width:100%;
+    display:flex;
+    justify-content: center;
+}
+
+.pair{
+    width:100%;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+
+.rsi-support{
+    display:flex;
+    flex-flow: row wrap;
 }
