@@ -126,46 +126,50 @@ const Dashboard = () => {
                 
             </section>
             <section className="pre-footer">
-                <div className="pre-footer-section">
-                    <p>IMG</p>
-                    <a href="#">Schedule A Demo</a>
-                </div>
-                <div className="pre-footer-section">
-                    <p>IMG</p>
-                    <a href="#">Free POS Analysis</a>
-                </div>
-                <div className="pre-footer-section">
-                    <p>IMG</p>
-                    <a href="#">Grocery POS</a>
-                </div>
-                <div className="pre-footer-section">
-                    <p>IMG</p>   
-                    <a href="#">Hospitality POS</a>
-                </div>
-                <div className="pre-footer-section">
-                    <p>IMG</p>   
-                    <a href="#">RSI Security Systems</a>
-                </div>
-                <div className="pre-footer-section">
-                    <p>IMG</p> 
-                    <a href="#">Contact Us</a>
+                <div className="pre-footer-width">
+                    <div className="pre-footer-section">
+                        <p>IMG</p>
+                        <a href="#">Schedule A Demo</a>
+                    </div>
+                    <div className="pre-footer-section">
+                        <p>IMG</p>
+                        <a href="#">Free POS Analysis</a>
+                    </div>
+                    <div className="pre-footer-section">
+                        <p>IMG</p>
+                        <a href="#">Grocery POS</a>
+                    </div>
+                    <div className="pre-footer-section">
+                        <p>IMG</p>   
+                        <a href="#">Hospitality POS</a>
+                    </div>
+                    <div className="pre-footer-section">
+                        <p>IMG</p>   
+                        <a href="#">RSI Security Systems</a>
+                    </div>
+                    <div className="pre-footer-section">
+                        <p>IMG</p> 
+                        <a href="#">Contact Us</a>
+                    </div>
                 </div>
             </section>
             <footer>
-                <div>
-                    <ul>
-                        <li>CONTACT US</li>
-                        <li>CUSTOMER SUPPORT</li>
-                        <li>POLICIES</li>
-                        <li>CAREER OPPORTUNITIES</li>
-                        <li>ABOUT RETAIL SYSTEMS INC.</li>
-                    </ul>
-                </div>
-                <div>
-                    <p>RETAIL SYSTEMS INC, 3920 AUGUSTA RD, WEST COLUMBIA, SC, 29170803-739-1190WEBMASTER@RETAILSYSTEMSINC.COM</p>
-                </div>
-                <div>
-                    <p>IMG</p>
+                <div className="footer-width">
+                    <div>
+                        <ul>
+                            <li>CONTACT US</li>
+                            <li>CUSTOMER SUPPORT</li>
+                            <li>POLICIES</li>
+                            <li>CAREER OPPORTUNITIES</li>
+                            <li>ABOUT RETAIL SYSTEMS INC.</li>
+                        </ul>
+                    </div>
+                    <div className="address">
+                        <p>RETAIL SYSTEMS INC, 3920 AUGUSTA RD, WEST COLUMBIA, SC, 29170803-739-1190WEBMASTER@RETAILSYSTEMSINC.COM</p>
+                    </div>
+                    <div className="footer-img">
+                        <p>RETAIL SYSTEMS INC</p>
+                    </div>
                 </div>
             </footer>
         </div>

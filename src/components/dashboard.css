@@ -1,8 +1,8 @@
-*{
+/* *{
     border:red 1px solid;
-}
+} */
 hr{
-    width:50%;
+    width:60%;
 }
 
 .parent{
@@ -25,7 +25,7 @@ nav{
     justify-content: space-around;
     align-items: center;
     width:100%;
-    height:10vh;
+    height:15vh;
     background-color: #2e2d2d;
 }
 
@@ -36,6 +36,7 @@ nav{
     align-items: center;
     justify-content: center;
     background-color:green;
+   
 }
 
 .links{
@@ -54,7 +55,7 @@ header{
     width:100%;
     display: flex;
     justify-content: center;
-    height:40vh;
+    height:55vh;
 }
 header div{
     display:flex;
@@ -68,6 +69,8 @@ header div{
     width:100%;
     display:flex;
     justify-content: center;
+    margin-bottom:3%;
+    margin-top: 5%;
 }
 
 .net-service{
@@ -75,6 +78,7 @@ header div{
     display:flex;
     flex-flow:row wrap;
     justify-content: center;
+    margin-top:3%;
 }
 
 .rsi-support{
@@ -82,6 +86,7 @@ header div{
     display:flex;
     flex-flow: row wrap;
     justify-content: center;
+    margin-top:3%;
 }
 
 .POS-systems{
@@ -89,6 +94,7 @@ header div{
     display:flex;
     flex-flow: row wrap;
     justify-content: center;
+    margin-top:3%;
 }
 .section-banner-RSI {
     width:60%;
@@ -149,13 +155,63 @@ header div{
     display:flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
+    background-color: rgba(26,26,26,.7);
+}
+
+.pre-footer-width{
+    width:60%;
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    margin-bottom:3%;
 }
 
 .pre-footer-section{
-    width:40%;
+    width:45%;
+    text-align: left;
+}
+
+.pre-footer-section p{
+    height:10vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+  
 }
 
 footer{
     width:100%;
+    height:60vh;
+    background-color: #1f1f1f;
+    display:flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    color:white;
+    
+}
+
+.footer-width{
+    width:60%;
+    display:flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    margin-top:3%;
+}
+
+.address{
+    width:50%;
+}
+
+/* .address p{
+   width:80%;
+} */
+
+.footer-img{
+    height:45vh;
+    width:100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgreen;
 }
 
